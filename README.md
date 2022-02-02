@@ -24,4 +24,4 @@ Speciality about this app is that we are using pytorch libraries for both Pose D
 
 We have trained our LSTM model and have saved the best model at *models/saved_model.ckpt*, same is used in the application for inferencing when you run the application. 
 
-<p><img src="" align="center" height="550">
+<p><img src="https://github.com/amir78698/Human_activity_recognition/blob/main/action-recognition.gif" align="center" height="550">
